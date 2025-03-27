@@ -4,6 +4,8 @@
 ## Overview
 A user-friendly Streamlit web application to calculate Body Mass Index (BMI) and provide health category insights.
 
+✅ Check out this project live on Streamlit: [BMI Calculator](https://python-assignment-bmi-calculator.streamlit.app)
+
 ## Features
 - Simple, intuitive interface
 - Real-time BMI calculation

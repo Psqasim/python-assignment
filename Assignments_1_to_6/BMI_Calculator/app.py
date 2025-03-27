@@ -24,5 +24,13 @@ def main():
         else:
             st.error("You are Obese.")
 
+ # Footer
+    st.divider()
+    st.markdown("""
+    <div style="text-align: center; color: #718096;">
+        © 2024 Python Web App | Made by PS Qasim | MIT License | Version 1.1.0
+    </div>
+    """, unsafe_allow_html=True)
+
 if __name__ == "__main__":
     main()
